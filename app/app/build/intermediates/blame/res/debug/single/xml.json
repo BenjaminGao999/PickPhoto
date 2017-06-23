@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\xml\\pick_file_paths.xml",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\xml\\pick_file_paths.xml"
+    }
+]

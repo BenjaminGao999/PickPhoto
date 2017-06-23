@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_select.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_select.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_close.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_close.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_icon_camera.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_icon_camera.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_open.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_open.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_un_select.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_un_select.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_camera.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_camera.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_icon_camera_black.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_icon_camera_black.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_un_select_black.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_un_select_black.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_ic_back.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_ic_back.png"
+    },
+    {
+        "merged": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\pick_list_open.png",
+        "source": "F:\\as_wp\\PhotoPickLib\\app\\build\\intermediates\\exploded-aar\\PhotoPickLib\\pickphotoview\\unspecified\\res\\mipmap-xhdpi-v4\\pick_list_open.png"
+    }
+]

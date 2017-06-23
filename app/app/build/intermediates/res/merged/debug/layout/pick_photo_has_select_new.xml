@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="49dp"
+    android:background="#f5f5f5"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_photo_has_select"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="10dp"
+        android:text="已选择0张图片"
+        android:textColor="#666666"
+        android:textSize="16sp" />
+
+    <Button
+        android:id="@+id/btn_upload_pickphoto"
+        android:layout_width="70dp"
+        android:layout_height="26dp"
+        android:layout_gravity="right|center_vertical"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/has_selected_bg_pickphoto_selector"
+        android:elevation="0dp"
+        android:stateListAnimator="@null"
+        android:text="上传"
+        android:textColor="#fff"
+        android:textSize="13sp" />
+
+</FrameLayout>

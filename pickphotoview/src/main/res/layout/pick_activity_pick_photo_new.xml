@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--toolbar-->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+
+        <ImageView
+            android:id="@+id/iv_back_toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/toolbar_back_selector_pickphoto" />
+
+        <TextView
+            android:id="@+id/tv_name_toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="相簿"
+            android:textColor="#333333"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/tv_cancel_toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="14dp"
+            android:text="取消"
+            android:textColor="#e75988"
+            android:textSize="16sp" />
+    </FrameLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#e6e6e6" />
+
+    <FrameLayout
+        android:id="@+id/fl_upload_desc"
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:background="#f1f1f1"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="上传完成任务的凭证"
+            android:textColor="#333333"
+            android:textSize="14sp" />
+    </FrameLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/photo_list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/pick_white" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="12dp"
+        android:background="#cccccc" />
+
+    <include layout="@layout/pick_photo_has_select_new" />
+
+</LinearLayout>

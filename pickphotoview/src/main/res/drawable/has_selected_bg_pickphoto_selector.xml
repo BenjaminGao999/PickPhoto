@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/has_selected_bg_pressed_pickphoto_shape" android:state_pressed="true" />
+
+    <item android:drawable="@drawable/has_selected_bg_normal_pickphoto_shape" />
+</selector>
